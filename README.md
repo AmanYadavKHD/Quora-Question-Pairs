@@ -1,4 +1,3 @@
-# Quora-Question-Pairs
 This repository contains notebook of quora similar question pair indentification model.
 Language - Python
 Tools used - 1. Pandas,
