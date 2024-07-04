@@ -1,9 +1,4 @@
-- This repository contains notebook of quora similar question pair indentification model.
+- This repository contains notebook of Quora Similar Question Pair identification model.
 - Python language is used for the project.
-- Tools used - 1. Pandas,
-             - 2. numpy
-             - 3. scikit-learn
-             - 4. seaborn
-             - 5. matoplotlib
-             - 6. NLTK 
+- Pandas, Numpy, Scikit-learn, Seaborn, Matoplotlib and NLTK tools were used.
 - We used many classifiers to find out accuracy most of them were around 75 percent. 
